@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+
+
+	When you see different between two files you can see which row and parameter was changed, after that you can realize that you did and what you need change for fix this problem.
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+
+
+	When you work a lot of time on a project. You can make some mistakes, and you need do revert for right code. If you have history it would be easy for you.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+
+	When you use automatically save parameter, it okay for some typical work but for developer, this way not a good because sometimes developer can create a several row. You don't need save this change. When developer decide make commit when he wants, it's a really helpful information
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	Sometimes you work with some the same task and you don't need create several commits for this tasks, after commit another developer when he looks at this he realize that this change for some new task.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+	For git log you need select some branch and use command git log, When you use git diff you need select several commits (id commit) for example git diff 1ff1 2dd2
+
+
+How might using version control make you more confident to make changes that could break something?
+
+	Usually when  you something fix or develop something new you use new branch and commit. When something break you can use histare and make revert for some commit
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I want use this resource and get some expiriense with this
