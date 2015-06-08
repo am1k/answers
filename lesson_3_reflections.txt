@@ -22,3 +22,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
     When you would be work without Git or GitHub you need create folder with files and add to this folder txt file with instruction. It easy for one side because he does change and create folder with new files, for second side it's very difficult because you need merge all changes with master.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+    When you work with big project usually this is small team, for example markup, front-end back-end and all this gays have branch for tasks, if all  this people would be work in master branch. They'll be have a lot of conflicts and this work slow.
+
+    
